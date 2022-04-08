@@ -1,0 +1,23 @@
+body{
+    background-color: #faf8f8;
+    background-image: url(bg_images/contactbg.png);
+}
+
+table{
+    padding: 15px;
+    margin-top: 50px;
+    background-color: yellow;
+    width: 30%;
+    height: 500px;
+    border: 4px dotted black;
+    border-radius: 50px;
+}
+
+label{
+    font-weight: bold;
+}
+
+p{
+    color: red;
+}
+
